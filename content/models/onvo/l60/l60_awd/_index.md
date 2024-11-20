@@ -34,17 +34,17 @@ Onvo L60 AWD has two battery options with different specifications. Below you se
 
 ### 85kWh
 
-The high-capacity battery has a gross capacity of 85.0 kWh and a net usable capacity of 90.0 kWh, providing a -5.0 kWh buffer (-5.9%) for battery protection. Operating at a nominal voltage of 792 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
+The high-capacity battery has a gross capacity of 85.0 kWh and a net usable capacity of 90.0 kWh, providing a -5.0 kWh buffer (-5.9%) for battery protection. Operating at a nominal voltage of 892 volts, it qualifies as an 900-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 700 km (435 miles). The energy consumption is 12.9 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 700 km (435 miles). The energy consumption is 12.7 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 38 minutes, while a more typical scenario from 10% to 80% takes 21 minutes with an average charging speed of 183 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 77%. This results in an effective charging speed, including time lost, of 153 kW, with each charging session taking about 27 minutes and 44 seconds. This efficient charging capability makes the Onvo L60 AWD a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 37 minutes, while a more typical scenario from 10% to 80% takes 20 minutes with an average charging speed of 183 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 77%. This results in an effective charging speed, including time lost, of 153 kW, with each charging session taking about 27 minutes and 44 seconds. This efficient charging capability makes the Onvo L60 AWD a convenient option for long-distance travel.
 
 ### 60kWh
 
-The high-capacity battery has a gross capacity of 60.6 kWh and a net usable capacity of 59.0 kWh, providing a 1.6 kWh buffer (2.6%) for battery protection. Operating at a nominal voltage of 685 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
+The high-capacity battery has a gross capacity of 60.6 kWh and a net usable capacity of 59.0 kWh, providing a 1.6 kWh buffer (2.6%) for battery protection. Operating at a nominal voltage of 785 volts, it qualifies as an 900-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
 
-The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 525 km (326 miles). The energy consumption is 12.9 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 525 km (326 miles). The energy consumption is 12.1 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 48 minutes, while a more typical scenario from 10% to 80% takes 25 minutes with an average charging speed of 99 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 76%. This results in an effective charging speed, including time lost, of 83 kW, with each charging session taking about 30 minutes and 53 seconds.
 
@@ -64,7 +64,7 @@ This model supports V2L (Vehicle to Load), allowing you to power electrical equi
 
 ### Battery swap
 
-This model support battery swap. Battery swap means you can drive to a unique battery swap station and get the battery replaced with a new battery with 90% SOC. The battery swap takes 7 minutes.
+This model support battery swap. Battery swap means you can drive to a unique battery swap station and get the battery replaced with a new battery with 92% SOC. The battery swap takes in China with a Gen 4 PSS 2 minutes and 30 seconds. In Europe where currently mostly Gen 2 and Gen 3 are available it takes from 4 min up to 6 min. Gen 4 will come at a later point.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -121,7 +121,7 @@ The Onvo L60 AWD accommodates five passengers with two front seats and a three-s
 
 The Onvo L60 AWD offers a single type of front seat.
 
-The following functionalities are available on the **standard** seat:
+The following functionalities on the front seats are available as standard equipment, so no addtional cost is required:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
@@ -131,7 +131,7 @@ The following functionalities are available on the **standard** seat:
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [Massage](../../../../technology/seats/adjustment/#massage) (optional)
+- [Massage](../../../../technology/seats/adjustment/#massage) 
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support) (standard for passenger seat)
 
 Available in:
@@ -167,7 +167,7 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 The Onvo L60 AWD includes several features to enhance comfort and convenience:
 
 - **Electrically Adjustable Steering Wheel**
-- **Wireless Phone Charging**
+- **50W Wireless Phone Charging with Cooling**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -179,9 +179,13 @@ The Onvo L60 AWD has a single screen for the driver. The dashboard’s center ha
 
 Key screen details:
 
-- The touch screen on the dashboard's center is 17.2 inches large
+- The 3K touch screen on the dashboard's center is 17.2 inches large
 
-A head-up display is a standard system that projects speed and other important driver information onto the windshield.
+A 13 inch head-up display is a standard system that projects speed and other important driver information onto the windshield.
+
+A 8 inch Rear-Display for the Rear-Passengers, where you are also able to change passenger seat postions, stream videos, change Rear-Climate, Seat Heating and Music streaming.
+
+Additionally you can connect your Nintendo Switch with the Front and the Rear Display.
 
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/screens_1_st.jpg" title="Onvo L60 AWD" width="2048" height="1429"  >}}
 
@@ -195,7 +199,7 @@ The Onvo L60 AWD is equipped with a single type of steering wheel:
 
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
-This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands. This includes Chat-GPT functions.
 
 ## Infotainment
 
@@ -229,7 +233,8 @@ The taillights use LED technology, ensuring both high visibility and energy effi
 
 ## Advanced Driver Assistance Systems
 
-The Onvo L60 AWD features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
+The Onvo L60 AWD features a range of standard and none optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
+Onvo L60 has included OSD City and Highway in China for now, until the regulations in Europe change towards this too. There may be subscription costs for using the OSD City and Highway. Please ask your salesperson about that before buying. 
 
 ### Safety Systems
 
@@ -239,15 +244,15 @@ The Onvo L60 AWD features a range of standard and optional [advanced driver assi
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Onvo L60 AWD, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Optional on the Onvo L60 AWD, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the Onvo L60 AWD, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
 [**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the Onvo L60 AWD, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Optional on the Onvo L60 AWD, this driver assist system helps drivers avoid or mitigate frontal collisions.
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Onvo L60 AWD, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Onvo L60 AWD, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
-[**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Optional on the Onvo L60 AWD, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
+[**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard on the Onvo L60 AWD, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Onvo L60 AWD, this side assist system helps to detect traffic in blind spots.
 
@@ -256,12 +261,12 @@ The Onvo L60 AWD features a range of standard and optional [advanced driver assi
 With the standard Onvo Self Driving level 2 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). 
 
 ### Sensors & Cameras
 
-This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
-Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), ten [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+This model uses seven 8-megapixel cameras, and four 5-megapixel cameras, 4D miliwave radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), in total 12 [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings. Including with 360 cameras with transparent chassis.
 
 ## Security and Access Technologies
 
@@ -276,19 +281,19 @@ The Onvo L60 AWD is equipped with advanced security features to protect you and 
 
 The trunk offers a cargo capacity of 495 liters (17.5 CU FT). With the rear seat folded down, this expands to 1505 liters (53.1 CU FT).
 
-The vehicle’s maximum weight is 2400 kg (5291 lbs), with a base weight of 1955 kg (4310 lbs). This allows for a maximum load of 445 kg (981 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 445kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The vehicle’s maximum weight is 2400 kg (5291 lbs), with a base weight of 1955 kg (4310 lbs). This allows for a maximum load of 445 kg (981 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 445kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers. But you still will be able to live with that. 
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+This model in China is not available with a towbar. So, to pull a trailer, you must look at other models. If they are going to change this for the European market is still unknown.
 
 ## Availability & Pricing
 
-The Onvo L60 AWD had its world premiere on 19.09.2024, with deliveries starting in November 2024.
+The Onvo L60 RWD/AWD had its world premiere on 19.09.2024, with deliveries starting in October 2024. A launch in Europe is planned for 2025 alongside their new brand Firefly, which will be introduced later this year, probably on NIO Day.
 
 ### Pricing
 
 Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
 
-- 235 900,00 yuan (China)
+- 255 900,00 yuan (China) if you are buying the AWD version and also purchase the 85 kWh battery. When using the most recommended and better BAAS-System the price for the AWD version drops down to 169,900 yuan.
 
 ## Alternative Models
 
